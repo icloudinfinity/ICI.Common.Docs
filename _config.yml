@@ -5,5 +5,5 @@ search_enabled: true
 ga_tracking: G-R8D9K4GZVQ
 ga_tracking_anonymize_ip: true
 aux_links:
-  "ICI Docs on GitHub":
-    - "https://github.com/rcl-ssl/docs"
+  "ICI Common Docs on GitHub":
+    - "https://github.com/icloudinfinity/ICI.Common.Docs"
