@@ -67,12 +67,26 @@ In this section, you will learn how to subscribe to an ICI application.
 
 - When your subscription is cancelled, you should download and back up your resources and data locally
 
-- Your data will be deleted after a few days
-
 - If you choose to re-subscribe, you will need to wait a few days
 
 - Your data will not be available after you re-subscribe
 
 ![image](../images/subscription/cancel-subscription-complete.jpg)
 
+# Get an API subscription key
 
+You can use an API Subscription Key to make authenticated requests to the various ICI APIs. To get a key, please follow these steps :
+
+- Click on : **Subscription > API Key**
+
+![image](../images/subscription/api-key.jpg)
+
+- In the API Subscription Key page, click on the 'Register an API Key' button
+
+- Then, generate an API Subscription Key
+
+![image](../images/subscription/api-key-generate.jpg)
+
+- The API Subscription Key is generated and displayed on the page
+
+ ![image](../images/subscription/api-key-displayed.jpg)
